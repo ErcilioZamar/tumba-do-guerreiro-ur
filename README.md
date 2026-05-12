@@ -70,7 +70,9 @@ O sistema de checkpoint salva em checkpoint.json
 
 
 📌 Conceitos aplicados
+
 Este projeto demonstra:
+
 Programação orientada a eventos
 Geração procedural de conteúdo
 Sistemas de estado e progressão
