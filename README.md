@@ -64,8 +64,10 @@ pip install pygame
 python main.py
 
 ⚠️ Observações importantes
-O jogo depende de Pygame instalado corretamente
+O jogo depende de Pygame instalado corretamente.
+
 O arquivo de música deve estar na mesma pasta (musica_alem.mp3)
+
 O sistema de checkpoint salva em checkpoint.json
 
 
