@@ -63,7 +63,8 @@ pip install pygame
 ### 3. Execute o game
 python main.py
 
-⚠️ Observações importantes
+⚠️ Observações importantes:
+
 O jogo depende de Pygame instalado corretamente.
 
 O arquivo de música deve estar na mesma pasta (musica_alem.mp3)
