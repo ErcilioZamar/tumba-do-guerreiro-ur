@@ -57,3 +57,8 @@ Música ambiente em loop para imersão.
 git clone URL_DO_REPO
 cd tumba-do-guerreiro-ur
 ```
+### 2. Instale as dependências
+pip install pygame
+
+### 3. Execute o game
+python main.py
