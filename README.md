@@ -62,3 +62,23 @@ pip install pygame
 
 ### 3. Execute o game
 python main.py
+
+⚠️ Observações importantes
+O jogo depende de Pygame instalado corretamente
+O arquivo de música deve estar na mesma pasta (musica_alem.mp3)
+O sistema de checkpoint salva em checkpoint.json
+
+
+📌 Conceitos aplicados
+Este projeto demonstra:
+Programação orientada a eventos
+Geração procedural de conteúdo
+Sistemas de estado e progressão
+Persistência de dados (save system)
+UI simples com Pygame
+Lógica de jogo (game loop)
+
+
+👨‍💻 Autor
+Desenvolvido por Ercilio Zamar
+Estudante de Análise e Desenvolvimento de Sistemas com foco em Python, automação e desenvolvimento de jogos.
