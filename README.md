@@ -72,6 +72,7 @@ O sistema de checkpoint salva em checkpoint.json
 📌 Conceitos aplicados
 
 Este projeto demonstra:
+```bash
 
 Programação orientada a eventos
 Geração procedural de conteúdo
@@ -79,8 +80,10 @@ Sistemas de estado e progressão
 Persistência de dados (save system)
 UI simples com Pygame
 Lógica de jogo (game loop)
-
+```
 
 👨‍💻 Autor
+
 Desenvolvido por Ercilio Zamar
+
 Estudante de Análise e Desenvolvimento de Sistemas com foco em Python, automação e desenvolvimento de jogos.
